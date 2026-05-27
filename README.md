@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi 👋, I'm Devanshu Rajput
+B.Tech CSE @ GLA University | MERN Stack Developer
 
-<!--
-**Devanshu7455/Devanshu7455** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building full-stack web apps, learning cloud and backend engineering, and preparing for SDE internships.
 
-Here are some ideas to get you started:
+🔗 LinkedIn • Email • Portfolio/GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧑‍💻 About Me
+🎓 B.Tech Computer Science student at GLA University
+💻 Interested in full-stack development, backend systems, and cloud integrations
+🌱 Currently learning TypeScript, Docker, and system design
+🎯 Looking for software engineering internship opportunities
+🛠️ Tech Stack
+Frontend: React, JavaScript, HTML, CSS, Tailwind CSS
+Backend: Node.js, Express.js, REST APIs
+Database: MongoDB, Mongoose
+Auth & Security: JWT, bcrypt
+Tools: Git, GitHub, Postman, VS Code, Docker
+Cloud: Microsoft Azure, Vercel, Render
+🚀 Featured Projects
+🍕 QuickBite — Full-stack food delivery app with auth, cart, and order tracking
+👁️ Azure Vision Detector — AI object detection app using Microsoft Azure Computer Vision
+🌐 Portfolio Website — Personal site with projects, skills, and contact info (Building soon!)
+📊 GitHub Stats
+
+📫 Contact
+LinkedIn: Devanshu Rajput
+Email: devanshurajput2004@gmail.com
+GitHub: Devanshu7455
