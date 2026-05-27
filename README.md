@@ -30,6 +30,6 @@ AI object detection application using Microsoft Azure Computer Vision
 Personal showcase site (Coming soon!)
 
 ##  Contact
-- LinkedIn: [Devanshu Rajput](your-link)
+- LinkedIn:https://www.linkedin.com/in/devanshu-rajput-514a74305/
 - Email: devanshurajput2004@gmail.com
 - GitHub: [Devanshu7455](https://github.com/Devanshu7455)
