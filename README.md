@@ -55,7 +55,6 @@ Multi-provider object detection web app using Browser AI, Hugging Face, and Azur
 
 - Oracle OCI AI Foundations Associate
 - Oracle OCI Generative AI Professional
-- Machine Learning — Infosys Springboard
 
 ---
 
